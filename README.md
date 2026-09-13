@@ -42,4 +42,4 @@ A solução foi desenvolvida utilizando uma arquitetura moderna e leve:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone https://github.com/matheuz2002/dashboard-financeiro-python-powerbi.git
