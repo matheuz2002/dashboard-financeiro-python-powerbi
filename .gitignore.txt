@@ -1,0 +1,5 @@
+# Ignorar arquivos de dados e bancos locais
+*.csv
+*.db
+*.sqlite
+*.pbix
