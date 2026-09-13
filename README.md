@@ -1,4 +1,5 @@
- # 📊 Executive Financial & Risk Analytics Dashboard
+ # 📊 Dashboard Executivo de Análise Financeira e de Riscos
+
 
 > Um pipeline de dados end-to-end e dashboard executivo desenvolvido para monitoramento de fluxo de caixa, DRE gerencial e controle de inadimplência corporativa.
 
