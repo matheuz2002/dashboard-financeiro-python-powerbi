@@ -1,0 +1,51 @@
+﻿id_cliente,nome,tipo_cliente,cidade,estado
+1,Sr. Diego Fonseca,PF,Garcia de Pinto,SE
+2,Isaque Machado,PF,Sá,AM
+3,Correia - EI,PF,Duarte,MG
+4,Cecília Monteiro,PF,Gonçalves,AP
+5,Sra. Giovanna da Rosa,PJ,Borges,AC
+6,Aylla da Cunha,PF,Pereira,ES
+7,Isaque Peixoto,PF,Alves,CE
+8,Sousa Pereira S.A.,PF,Moura,RR
+9,Castro Fogaça - ME,PF,Martins,ES
+10,Pastor,PF,Vargas,BA
+11,Sr. Lucas Gabriel Pimenta,PJ,Andrade de Fonseca,MA
+12,Dias,PF,Martins,DF
+13,Rael Ferreira,PF,Cavalcante,SE
+14,Mendes Caldeira e Filhos,PJ,Monteiro,PI
+15,Pacheco Rezende S.A.,PF,Cavalcanti,PA
+16,Dra. Bárbara Moraes,PF,Mendes,DF
+17,Dra. Maria Clara Pacheco,PJ,Nunes de da Luz,RR
+18,Juan Monteiro,PF,Pires,RS
+19,Maria Vitória Barros,PF,Camargo,AM
+20,Brito,PF,Pires do Galho,BA
+21,Sra. Maria Julia da Mota,PJ,Dias de Monteiro,AM
+22,Costa - EI,PF,Caldeira,RR
+23,João Vitor Leão,PF,Marques do Campo,BA
+24,Castro S.A.,PF,Viana,PA
+25,Kamilly Alves,PF,Sampaio,PB
+26,Lima,PF,Moraes,RR
+27,Bruno Garcia,PF,Fonseca da Serra,MT
+28,Monteiro Fernandes Ltda.,PJ,Araújo,SE
+29,Sr. Benjamin Jesus,PF,Fernandes Paulista,SP
+30,Otávio Novaes,PF,Moraes,RO
+31,Pedro Miguel Garcia,PF,Garcia,ES
+32,das Neves - ME,PF,da Cunha de Camargo,PR
+33,Maysa Macedo,PF,Silveira dos Dourados,RO
+34,Camargo,PF,Pires,AM
+35,Danilo Martins,PF,Camargo,RO
+36,Bryan Peixoto,PF,Guerra dos Dourados,RN
+37,Diogo Lima,PF,Campos,MS
+38,Dra. Larissa Cavalcante,PJ,Alves,RN
+39,Rocha Ltda.,PF,Sá de Melo,RS
+40,Brito,PF,Cardoso do Sul,SE
+41,Kaique da Cruz,PF,Vasconcelos dos Dourados,MT
+42,Azevedo,PF,Fogaça,GO
+43,Duarte Machado S.A.,PF,Garcia,PA
+44,Thiago Sousa,PF,Aparecida de Ramos,MS
+45,Pedro Silveira,PF,Novaes,PI
+46,Dr. Vicente Macedo,PF,Correia,RS
+47,da Rosa,PF,Ferreira,DF
+48,Liam da Paz,PF,da Conceição,SE
+49,Benicio Nascimento,PF,Teixeira,TO
+50,Eloá Pinto,PF,Marques,TO

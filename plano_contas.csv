@@ -1,0 +1,7 @@
+﻿id_conta,nome_conta,tipo
+1,Receita de Vendas de Serviços,Receita
+2,Receita de Consultoria,Receita
+3,Custos Operacionais,Despesa
+4,Despesas com Marketing,Despesa
+5,Folha de Pagamento,Despesa
+6,Aluguel e Infraestrutura,Despesa
